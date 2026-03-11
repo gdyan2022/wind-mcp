@@ -177,8 +177,8 @@ WIND_DATE_MACROS = {
         "examples": [
             "ED-1Y (一年前)",
             "IPO (上市首日)",
-            "RYF": "本年初",
-            "LYE": "上年末"
+            "RYF（本年初）",
+            "LYE（上年末）"
         ]
     }
 }
